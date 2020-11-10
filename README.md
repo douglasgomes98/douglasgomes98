@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, eu sou o Douglas 👋🏽 👨🏽‍💻
 
-<!--
-**douglasgomes98/douglasgomes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação na Estácio (Centro Universitário da Amazônia), cursando atualmente o 6ª Semestre, estou sempre em busca de novos conhecimentos e aprimoramentos. Já atuei como desenvolvedor Full Stack, porém atualmente meu foco é no Front-End.
 
-Here are some ideas to get you started:
+#### Tecnologias
+* ReactJs
+* React Native
+* NodeJs
+* TypeScript 
+* Spring Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true)
+![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact)
+
+
+## Redes Sociais 🌎:
+- 📱 WhatsApp:  [(95) 991680720](https://api.whatsapp.com/send/?phone=05595991680720)
+- ✉️ E-mail: [douglasgomes.rr@gmail.com](mailto:douglasgomes.rrg@mail.com)
+- 💼 Linkedin: [https://www.linkedin.com/in/douglas-gomes-071a61143](https://www.linkedin.com/in/douglas-gomes-071a61143) 
