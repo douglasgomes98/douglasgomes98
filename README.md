@@ -12,8 +12,7 @@ Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação n
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=dark)
-![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact)
-
+![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=dark)
 
 ## Redes Sociais 🌎:
 - 📱 WhatsApp:  [(95) 991680720](https://api.whatsapp.com/send/?phone=05595991680720)
