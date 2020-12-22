@@ -15,7 +15,6 @@ Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação n
 <br/>
 ![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=radical&hide_border=true&count_private=true)
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglasgomes98&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes Sociais 🌎:
 - 📱 WhatsApp:  [(95) 991680720](https://api.whatsapp.com/send/?phone=05595991680720)
