@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas 👋🏽 👨🏽‍💻
 
-Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação na Estácio (Centro Universitário da Amazônia), cursando atualmente o 6ª Semestre, estou sempre em busca de novos conhecimentos e aprimoramentos.
+Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação na Estácio (Centro Universitário da Amazônia), cursando atualmente o 7ª Semestre, estou sempre em busca de novos conhecimentos e aprimoramentos.
 
 #### Tecnologias
 * ReactJs
