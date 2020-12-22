@@ -11,8 +11,8 @@ Tenho 22 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação n
 * Spring Boot
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=dark)
-![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=dark)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=dark&count_private=true)
+![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 ## Redes Sociais 🌎:
 - 📱 WhatsApp:  [(95) 991680720](https://api.whatsapp.com/send/?phone=05595991680720)
