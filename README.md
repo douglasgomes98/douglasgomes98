@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://github.com/douglasgomes98/douglasgomes98/blob/code.gif?raw=true" width="400px" height="300px" align="right" />
+<img alt="GIF" src="https://github.com/douglasgomes98/douglasgomes98/blob/main/code.gif?raw=true" width="400px" height="300px" align="right" />
 
 ## Olá, eu sou o Douglas!
 
