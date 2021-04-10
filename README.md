@@ -6,9 +6,7 @@ Tenho 23 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação n
 * ReactJs
 * React Native
 * NodeJs
-* TypeScript 
-* Spring Framework
-* Spring Boot
+* TypeScript
 
 ### Metas
 - TDD
