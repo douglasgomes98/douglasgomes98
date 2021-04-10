@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Clean Code-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=282c34"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=radical&count_private=true" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=radical&count_private=true" align="right" width="400px" alt="github stats">
 
 #### Próximo Nível 🚀
 
@@ -53,4 +53,4 @@
     <img src="https://img.shields.io/badge/Whatsapp-07bc4c?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=05595991680720"/></a>  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
