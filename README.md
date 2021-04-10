@@ -1,35 +1,27 @@
 <img alt="GIF" src="https://github.com/douglasgomes98/douglasgomes98/blob/main/code.gif?raw=true" width="400px" height="300px" align="right" />
 
-## Olá, eu sou o Douglas!
-
-<br/>
+### Olá, eu sou o Douglas!
 
 <p align="left">
  Tenho 23 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação na Estácio (Centro Universitário da Amazônia), cursando atualmente o 7ª Semestre, na faculdade encontrei minha paixão, com isso minha jornada de desenvolvedor começou, estou sempre em busca do próximo nível. 👨🏽‍💻 
 </p>
 
-<br/>
-<br/>
-<br/>
-
  #### Tecnologias ✅ 
  
 <p>
-<img src="https://img.shields.io/badge/React Native-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=282c34"/></a>
+ <img src="https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=282c34"/></a>
+ <img src="https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black"/></a>
+ <img src="https://img.shields.io/badge/React Native-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=282c34"/></a>
+ <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/></a>
 </p>
 
-<p align="left">
-  Em Progresso 🔥
-<br>
 
-<p align="left">
-  Próximo Nível 🚀
-<br>
+#### Em Progresso 🔥
 
-- ReactJs
-- React Native
-- NodeJs
-- TypeScript
+#### Próximo Nível 🚀
+
 
 <div align="left">
  * TDD <br/>
