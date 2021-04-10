@@ -10,6 +10,18 @@ Tenho 23 anos, Amazonense, sou acadêmico do curso de Sistemas de Informação n
 * Spring Framework
 * Spring Boot
 
+### Metas
+- TDD
+- Clean Architecture
+- Clean Code
+- NextJS
+- GraphQL
+- Redux
+- Github Actions
+- Docker
+- JavaScript Workers
+- Babel
+- Webpack
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=radical&count_private=true)
 <br/>
