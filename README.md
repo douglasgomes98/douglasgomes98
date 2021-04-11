@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-### Social 🌎
+#### Social 🌎
 
 <p align="left">
   <a href="mailto:douglasgomes.rr@gmail.com" alt="Gmail" target="_blank">
@@ -71,7 +71,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgomes98&layout=compact&theme=radical&hide_border=true&count_private=true" align="right" alt="github stats">
 
-### WorkSpace 💻
+#### WorkSpace 💻
 
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
