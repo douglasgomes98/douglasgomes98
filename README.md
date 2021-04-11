@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://github.com/douglasgomes98/douglasgomes98/blob/main/code.gif?raw=true" width="400px" height="300px" align="right" />
+<img alt="GIF" src="https://github.com/douglasgomes98/douglasgomes98/blob/main/code.gif?raw=true" width="500px" height="400px" align="right" />
 
 ### Olá, eu sou o Douglas!
 
@@ -10,7 +10,7 @@
 
 <p align="left">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
