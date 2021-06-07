@@ -32,15 +32,15 @@
  <img src="https://img.shields.io/badge/Webpack-61dafb?style=for-the-badge&logo=webpack&logoColor=61dafb&color=282c34"/>
  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34"/>
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow"/>
 </p>
 
 #### Em Progresso 🔥
 
 <p align="left">
-<img src="https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow"/>
 <img src="https://img.shields.io/badge/TDD-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
 <img src="https://img.shields.io/badge/Clean Architecture-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=douglasgomes98&show_icons=true&hide_border=true&theme=radical&count_private=true" align="right" width="400px" alt="github stats">
