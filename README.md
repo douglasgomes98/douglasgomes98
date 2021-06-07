@@ -28,6 +28,10 @@
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Clean Code-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
+ <img src="https://img.shields.io/badge/Webpack-61dafb?style=for-the-badge&logo=webpack&logoColor=61dafb&color=282c34"/>
+ <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34"/>
 </p>
 
 #### Em Progresso 🔥
@@ -36,10 +40,6 @@
 <img src="https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow"/>
 <img src="https://img.shields.io/badge/TDD-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
 <img src="https://img.shields.io/badge/Clean Architecture-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
-<img src="https://img.shields.io/badge/Clean Code-61dafb?style=for-the-badge&logoColor=61dafb&color=282c34"/>
-<img src="https://img.shields.io/badge/Webpack-61dafb?style=for-the-badge&logo=webpack&logoColor=61dafb&color=282c34"/>
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
