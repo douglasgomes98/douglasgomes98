@@ -34,6 +34,7 @@
  <img src="https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow"/>
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
 #### Em Progresso 🔥
@@ -48,7 +49,6 @@
 #### Próximo Nível 🚀
 
 <p align="left">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github Actions-61dafb?style=for-the-badge&logo=github&logoColor=white&color=282c34"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript Workers-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
